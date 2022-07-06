@@ -1,0 +1,25 @@
+BigQuery
+Data Visualisation
+R
+Jupyter
+DAX
+Clinical Research
+Data Science
+Data Collection
+Cognos Analytics
+
+Statistics
+Data Science (Machine Learning, ETL process)
+IT Audit 
+(Risk Management, Cyber Security, CEH, CISA, CAATS and PRINS, Audit)
+Data Science Toolkits
+Data Mining (GLM/Regression, Random Forest/Tree, Boosting, Text Mining)
+Web Services()
+CRIR analysts
+SQL, Model Building, MySQL, AWS, DMS, Hadoop, Hive, Spark, Map/Reduce,
+MATLAB, Redshift, Glue
+Java, Javascript, R, Python, SQL
+Tableau, Qlik, Power BI, D3, ggplot, Sisense, Kibana
+BI Tools
+SSIS, SSRS, DAX, PowerBI, SQL, Power Query
+Biostats
